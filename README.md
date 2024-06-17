@@ -1,0 +1,2 @@
+# plag-check
+plagiarism checker
